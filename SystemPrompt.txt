@@ -42,3 +42,5 @@ At the end, provide:
 
 If you cannot find at least 1 place with trusted sources, reply:
 > "I couldn't find at least one confirmed abandoned places in this city from 2020 to 2025. Try checking with local municipal archives or OpenStreetMap."
+
+The user's message is: {message} 
